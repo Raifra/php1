@@ -1,0 +1,18 @@
+*{
+    background-color:bisque;
+    font-size: 10px;
+}
+
+
+table, th, td {
+    border:1px solid black;
+    height: 50px;
+    width: 800px;
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  th{
+    font-size: 20px;
+  }
