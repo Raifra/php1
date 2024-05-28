@@ -1,0 +1,27 @@
+*{
+    background-color: bisque;
+}
+
+
+
+
+table, th, td {
+    border: 2px solid;
+    height: 50px;
+    width: 1000px;
+    text-align: center;
+    background-color:  rgb(233, 208, 175);
+    font-size: 20px;
+    margin-left: 250px;
+    
+   
+  }
+
+  #conte{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h2{
+    text-align: center;
+  }
